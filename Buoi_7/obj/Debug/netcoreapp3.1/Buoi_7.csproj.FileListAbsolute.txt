@@ -1,0 +1,13 @@
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\bin\Debug\netcoreapp3.1\Buoi_7.exe
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\bin\Debug\netcoreapp3.1\Buoi_7.deps.json
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\bin\Debug\netcoreapp3.1\Buoi_7.runtimeconfig.json
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\bin\Debug\netcoreapp3.1\Buoi_7.runtimeconfig.dev.json
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\bin\Debug\netcoreapp3.1\Buoi_7.dll
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\bin\Debug\netcoreapp3.1\Buoi_7.pdb
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\obj\Debug\netcoreapp3.1\Buoi_7.csprojAssemblyReference.cache
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\obj\Debug\netcoreapp3.1\Buoi_7.AssemblyInfoInputs.cache
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\obj\Debug\netcoreapp3.1\Buoi_7.AssemblyInfo.cs
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\obj\Debug\netcoreapp3.1\Buoi_7.csproj.CoreCompileInputs.cache
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\obj\Debug\netcoreapp3.1\Buoi_7.dll
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\obj\Debug\netcoreapp3.1\Buoi_7.pdb
+D:\HUFLIT-Programing\HUFLIT-Programing\TH-OOP-HUFLIT\Project\Buoi_7\obj\Debug\netcoreapp3.1\Buoi_7.genruntimeconfig.cache

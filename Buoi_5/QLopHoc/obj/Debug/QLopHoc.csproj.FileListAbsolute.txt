@@ -1,0 +1,15 @@
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\bin\Debug\QLopHoc.exe.config
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\bin\Debug\QLopHoc.exe
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\bin\Debug\QLopHoc.pdb
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\bin\Debug\EntityFramework.dll
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\bin\Debug\EntityFramework.SqlServer.dll
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\bin\Debug\EntityFramework.xml
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\bin\Debug\EntityFramework.SqlServer.xml
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\obj\Debug\QLopHoc.csprojAssemblyReference.cache
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\obj\Debug\QLopHoc.Form1.resources
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\obj\Debug\QLopHoc.Properties.Resources.resources
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\obj\Debug\QLopHoc.csproj.GenerateResource.cache
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\obj\Debug\QLopHoc.csproj.CoreCompileInputs.cache
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\obj\Debug\QLopHoc.csproj.CopyComplete
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\obj\Debug\QLopHoc.exe
+D:\TH-OOP-HUFLIT\Buoi_5\QLopHoc\obj\Debug\QLopHoc.pdb

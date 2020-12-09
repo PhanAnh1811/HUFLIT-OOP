@@ -1,0 +1,32 @@
+﻿create table LOPHOC
+(
+MaLop varchar(50) not null,
+TenLop nvarchar(50) not null,
+constraint PK_LOPHOC primary key(MaLop)
+)
+create table SINHVIEN
+(
+MaSV varchar(50) not null,
+TenSV nvarchar(50) not null,
+DiaChi nvarchar(100) not null,
+Tuoi int not null,
+MaLop varchar(50) not null,
+constraint PK_SINHVIEN primary key(MaSV),
+constraint FK_SINHVIEN_LOPHOC foreign key(MaLop) references LOPHOC(MaLop)
+)
+
+INSERT INTO LOPHOC VALUES('LH001', 'LAP TRINH WEB')
+INSERT INTO LOPHOC VALUES('LH002', 'LAP TRINH WEB NANG CAO')
+INSERT INTO LOPHOC VALUES('LH003', 'LAP TRINH OOP')
+INSERT INTO SINHVIEN VALUES('SV001', N'NGUYỄN VĂN A', 'TPHCM', 18,
+'LH001')
+INSERT INTO SINHVIEN VALUES('SV002', N'NGUYỄN VĂN B', 'TPHCM', 18,
+'LH001')
+INSERT INTO SINHVIEN VALUES('SV003', N'NGUYỄN VĂN C', 'HANOI', 18,
+'LH002')
+INSERT INTO SINHVIEN VALUES('SV004', N'NGUYỄN VĂN D', 'HANOI', 18,
+'LH002')
+INSERT INTO SINHVIEN VALUES('SV005', N'NGUYỄN VĂN E', 'TPHCM', 18,
+'LH003')
+INSERT INTO SINHVIEN VALUES('SV006', N'NGUYỄN VĂN F', 'TPHCM', 18,
+'LH003')

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLLOPHOCModelStoreContainer" CdmEntityContainer="QLLOPHOCEntities">
+    <EntitySetMapping Name="lophocs">
+      <EntityTypeMapping TypeName="QLLOPHOCModel.lophoc">
+        <MappingFragment StoreEntitySet="lophoc">
+          <ScalarProperty Name="malop" ColumnName="malop" />
+          <ScalarProperty Name="tenlop" ColumnName="tenlop" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

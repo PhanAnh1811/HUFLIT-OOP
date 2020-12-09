@@ -1,0 +1,13 @@
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\bin\Debug\netcoreapp3.1\Buoi_2.exe
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\bin\Debug\netcoreapp3.1\Buoi_2.deps.json
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\bin\Debug\netcoreapp3.1\Buoi_2.runtimeconfig.json
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\bin\Debug\netcoreapp3.1\Buoi_2.runtimeconfig.dev.json
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\bin\Debug\netcoreapp3.1\Buoi_2.dll
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\bin\Debug\netcoreapp3.1\Buoi_2.pdb
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\obj\Debug\netcoreapp3.1\Buoi_2.csprojAssemblyReference.cache
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\obj\Debug\netcoreapp3.1\Buoi_2.AssemblyInfoInputs.cache
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\obj\Debug\netcoreapp3.1\Buoi_2.AssemblyInfo.cs
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\obj\Debug\netcoreapp3.1\Buoi_2.csproj.CoreCompileInputs.cache
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\obj\Debug\netcoreapp3.1\Buoi_2.dll
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\obj\Debug\netcoreapp3.1\Buoi_2.pdb
+D:\TH_OOP_HUFLIT\Buoi_2\Buoi_2\obj\Debug\netcoreapp3.1\Buoi_2.genruntimeconfig.cache

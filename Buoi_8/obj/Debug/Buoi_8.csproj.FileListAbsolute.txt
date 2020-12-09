@@ -1,0 +1,7 @@
+D:\TH-OOP-HUFLIT\Buoi_8\Buoi_8\bin\Debug\Buoi_8.exe.config
+D:\TH-OOP-HUFLIT\Buoi_8\Buoi_8\bin\Debug\Buoi_8.exe
+D:\TH-OOP-HUFLIT\Buoi_8\Buoi_8\bin\Debug\Buoi_8.pdb
+D:\TH-OOP-HUFLIT\Buoi_8\Buoi_8\obj\Debug\Buoi_8.csprojAssemblyReference.cache
+D:\TH-OOP-HUFLIT\Buoi_8\Buoi_8\obj\Debug\Buoi_8.csproj.CoreCompileInputs.cache
+D:\TH-OOP-HUFLIT\Buoi_8\Buoi_8\obj\Debug\Buoi_8.exe
+D:\TH-OOP-HUFLIT\Buoi_8\Buoi_8\obj\Debug\Buoi_8.pdb
